@@ -1,6 +1,12 @@
 {
   "text-module": [
-    { "id": 1, "value": "This is a text module (version 1)" },
-    { "id": 2, "value": "This is a text module (version 2)" }
+    {
+      "value": "This is a text module (version 1)",
+      "id": 1
+    },
+    {
+      "value": "This is a text module (version 2)",
+      "id": 2
+    }
   ]
 }
