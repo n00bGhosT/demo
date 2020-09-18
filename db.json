@@ -1,0 +1,6 @@
+{
+  "text-module": [
+    { "id": 1, "value": "This is a text mnodule (version 1)" },
+    { "id": 2, "value": "This is a text mnodule (version 2)" }
+  ]
+}
